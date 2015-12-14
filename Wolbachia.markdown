@@ -1,0 +1,41 @@
+ Wolbachia
+==========
+
+ Context 
+--------
+### What is it?
+Wolbachia, or more specifically `Wolbachia Pipientis`, is a bacteria that infects arthropod species. Wolbachia are considered mutualistic endosymbionts, and are "required for survival of their hosts."[4]
+
+### How does it function?
+
+### When/How was it discovered?
+Wolbachia was first discovered by Samuel Burt Wolbach and described by Marshall Hertig. Wolbach had been studying the cause of Rocky Mountain Spotted Fever and by 1916 had shown that `Dermacentor andersoni`, a tick native to the Rocky Mountain area, was the transmitter of the disease.[1] He was unable to grow the actual bacteria causing the disease, a species of `Rickettsia`, in a cell-free culture leading "him to speculate as to the relationship between the cells of the host and the intracellular parasites."[2] This is important to note, because the discovery of Wolbachia is closely linked to this idea.
+
+Hertig came to work with Wolbach, and together they investigated a bacteria living in the gonads of the `C. pipiens` mosquito. This bacteria is known today as `Wolbachia pipientis` which Hertig gave a detailed description of in 1936.[3] At this point scientists did not know of the gene manipulation that `Wolbachia` has on it's hosts, and the discovery largely went unnoticed. 
+
+In the 1960s and '70s, scientists noted "unusual structures in the oocytes or in the hypodermis" of filarial nematodes[5]
+
+
+### Key/Unusual Features?
+
+### State of Scientific understanding when discovered
+
+
+ Impact
+-------
+### How did it change the world?
+ ( Scientific & Historical Narrative )
+
+### Why did it change the world?
+ ( Analysis & interpretation of scientific & historical narrative )
+
+
+ References
+===========
+
+[1] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.3
+[2] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.3
+[3] \_The Rickettsia, Wolbachia pipientis (gen. et sp.n.) and Associated Inclusions of the Mosquito, Culex pipiens\_, by Marshall Hertig
+[4] \_The Discovery of Wolbachia in Arthorpods and Nematodes - A Historical Perspective\_, Wieslaw J. Kozek, Ramakrishna U. Rao
+[5] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.4
+
