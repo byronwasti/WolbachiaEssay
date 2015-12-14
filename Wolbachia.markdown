@@ -13,7 +13,9 @@ Wolbachia was first discovered by Samuel Burt Wolbach and described by Marshall 
 
 Hertig came to work with Wolbach, and together they investigated a bacteria living in the gonads of the `C. pipiens` mosquito. This bacteria is known today as `Wolbachia pipientis` which Hertig gave a detailed description of in 1936.[3] At this point scientists did not know of the gene manipulation that `Wolbachia` has on it's hosts, and the discovery largely went unnoticed. 
 
-In the 1960s and '70s, scientists noted "unusual structures in the oocytes or in the hypodermis" of filarial nematodes[5]
+In the 1960s and '70s, scientists noted "unusual structures in the oocytes or in the hypodermis" of filarial nematodes but did not associate them with bacteria.[5] It wasn't until 1995 that these "unusual structures" were determined to be `Wolbachia`.[6]
+
+The history of Wolbachia is filled with stories of discovery and re-discovery, as people gained more and more interest in this bizarre creature.
 
 
 ### Key/Unusual Features?
@@ -34,8 +36,13 @@ In the 1960s and '70s, scientists noted "unusual structures in the oocytes or in
 ===========
 
 [1] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.3
+
 [2] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.3
+
 [3] \_The Rickettsia, Wolbachia pipientis (gen. et sp.n.) and Associated Inclusions of the Mosquito, Culex pipiens\_, by Marshall Hertig
+
 [4] \_The Discovery of Wolbachia in Arthorpods and Nematodes - A Historical Perspective\_, Wieslaw J. Kozek, Ramakrishna U. Rao
+
 [5] \_Wolbachia: A bug's Life in another Bug\_, by A. Hoerauf and R. U. Rao;  p.4
 
+[6] Sironi M, Bandi C, Sacchi L, Di Sacco B, Damiani G, Genchi C: A close relative of the arthropod endosymbiont Wolbachia in a filarial worm. Mol Biochem Parasitol 1995; 74:223–227.
