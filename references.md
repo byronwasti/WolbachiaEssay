@@ -48,3 +48,8 @@
 
 [24] Werren JH, Biology of Wolbachia, Annual Rev. Entomol; 1997,42:587-609
 
+[25] Stouthamer R, Breeuwer JAJ, Luck RF, Werren JH. 1993. Molecular identification of microorganisms associated with parthenogenesis. Nature 361:66–68
+
+[26] Werren JH, Biology of Wolbachia, Annual Rev. Entomol; 1997,42:587-609
+
+[27] Stouthamer R, Kazmer DJ. 1994. Cytogenetics of microbe-associated parthenogenesis and its consequences for gene flow in Trichogramma wasps. Heredity 73:317–27 
